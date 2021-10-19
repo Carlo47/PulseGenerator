@@ -21,6 +21,8 @@ References:
 - [Arduino Forum](https://forum.arduino.cc/index.php?topic=360714.0)
 - [Uri Shaked](https://urish.medium.com/5-ways-to-blink-an-led-with-arduino-8f8a41b4fc7d)
 
+## Examples
+
 ```
 Example 1 (2 pulse trains with different frequencies at 2 different pins)
          ______              ______    
